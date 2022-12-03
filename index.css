@@ -1,0 +1,93 @@
+body{
+    background: #344a72;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#sec-1{
+    width: 30%;
+    height: 100vh;
+    margin: auto;
+    background: white;
+    border-radius: 3px;
+    
+}
+#sec-2{
+    width: 30%;
+    height: 60vh;
+    margin: auto;
+    background: white;
+    border-radius: 3px;
+    display: none;
+}
+
+h1{
+    text-align: center;
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    /* border: 1px solid black; */
+    width: 90%;
+    margin-left: 20px;
+}
+form label{
+    /* border: 1px solid black; */
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    /* border: 1px solid rgb(177, 26, 26); */
+    width: 95%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+
+}
+/* input[type="button"]{
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    background: lightseagreen;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+} */
+button{
+    width: 100%;
+    height: 5vh;
+    margin-top: 20px;
+    border: none;
+    border-radius: 7px;
+    background: lightseagreen;
+    color: white;
+    font-size: 18px;
+    font-weight: bold; 
+}
+p{
+    text-align: center;
+    padding-top: 15px;
+}
+.para_2{
+text-align: center;
+font-size: 18px;
+color: #000;
+margin-top: -10px;
+}
+.para_2 a{
+color: blue;
+text-decoration: none;
+}
+
+.para_2_lg{
+    text-align: center;
+font-size: 18px;
+color: #000;
+margin-top: -10px;
+}
+.para_2_lg a{
+    color: blue;
+    text-decoration: none;
+}
